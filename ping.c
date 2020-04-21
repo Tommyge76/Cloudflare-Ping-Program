@@ -3,6 +3,7 @@
  * Developed and tested on Ubuntu
  * Compile by "cd"ing into the directory with ping.c then doing "gcc ping.c -o ping" 
  * The program must be run as a super user, do "sudo su" to access this privilege
+ * Run this program by doing ./ping <hostname/ip-address>, example: ./ping google.com
  * Press Control + C to exit the program
  * 
 */
